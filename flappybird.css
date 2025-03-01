@@ -1,0 +1,8 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;    /* Text and canva will be at center */
+}
+#board{
+    /* background-color: lightseagreen; */
+    background-image: url("./background.png");
+}
